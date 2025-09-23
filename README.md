@@ -11,7 +11,7 @@ Utilizes AI and optical character recognition (OCR) to automatically identify an
 
 ## Model
 
-- YOLOv8n for vehicle detection & license plate detection. Dataset can be access from here : https://app.roboflow.com/myworkspace-vi5mm/indonesian-plate-number-mpgfj-dm7qu/models
+- YOLOv8n for vehicle detection & license plate detection. Dataset can be accessed from here : https://app.roboflow.com/myworkspace-vi5mm/indonesian-plate-number-mpgfj-dm7qu/models
 
 - OCR (easyocr) for character extraction from license plate image
 
