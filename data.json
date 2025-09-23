@@ -1,0 +1,29 @@
+{
+    "plat_nomor": [
+    {"kode": "N", "daerah": ["Malang", "Pasuruan", "Probolinggo", "Batu", "Lumajang"]},
+    {"kode": "L", "daerah": ["Surabaya"]},
+    {"kode": "W", "daerah": ["Gresik", "Sidoarjo"]},
+    {"kode": "P", "daerah": ["Banyuwangi", "Besuki", "Bondowoso", "Jember", "Situbondo"]},
+    {"kode": "M", "daerah": ["Madura", "Bangkalan", "Sampang", "Sumenep", "Pamekasan"]},
+    {"kode": "AG", "daerah": ["Tulungagung", "Kediri", "Blitar", "Trenggalek", "Nganjuk"]},
+    {"kode": "AE", "daerah": ["Ngawi", "Madiun", "Pacitan", "Ponorogo", "Magetan"]},
+    {"kode": "S", "daerah": ["Tuban", "Jombang", "Bojonegoro", "Lamongan", "Mojokerto"]},
+    {"kode": "B", "daerah": ["Jakarta"]},
+    {"kode": "AB", "daerah": ["Yogyakarta"]},
+    {"kode": "AD", "daerah": ["Boyolali", "Klaten", "Wonogiri", "Sukoharjo", "Surakarta", "Karanganyar", "Sragen"]},
+    {"kode": "AA", "daerah": ["Kedu", "Purworejo", "Temanggung", "Magelang", "Wonosobo", "Kebumen"]},
+    {"kode": "K", "daerah": ["Cepu", "Pati", "Kudus", "Jepara", "Grobogan", "Rembang", "Blora"]},
+    {"kode": "R", "daerah": ["Banjarnegara", "Banyumas", "Cilacap", "Purbalingga"]},
+    {"kode": "G", "daerah": ["Brebes", "Pemalang", "Batang", "Tegal", "Pekalongan"]},
+    {"kode": "H", "daerah": ["Salatiga", "Semarang", "Kendal", "Demak"]},
+    {"kode": "A", "daerah": ["Banten"]},
+    {"kode": "D", "daerah": ["Bandung", "Bandung Barat", "Cimahi"]},
+    {"kode": "F", "daerah": ["Bogor", "Sukabumi", "Cianjur"]},
+    {"kode": "E", "daerah": ["Kuningan", "Cirebon", "Majalengka", "Indramayu"]},
+    {"kode": "T", "daerah": ["Subang", "Purwakarta", "Karawang"]},
+    {"kode": "Z", "daerah": ["Banjar", "Garut", "Ciamis", "Tasikmalaya", "Sumedang"]},
+    {"kode": "DK", "daerah": ["Bali"]},
+    {"kode": "RI", "daerah": ["Indonesia"]},
+    {"kode": "BK", "daerah": ["Sumatra Utara"]}
+    ]
+}
