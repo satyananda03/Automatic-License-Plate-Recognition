@@ -6,7 +6,7 @@ Utilizes AI and optical character recognition (OCR) to automatically identify an
 - License plate character extraction
 - Region code recognition (Currently only applicable to regions in Indonesia), using fuzzy matching technique
 <p align="center">
-  <img src="./img/workflow.png" alt="Logo" width="300"/>
+  <img src="./img/workflow.png" alt="Logo" width="600"/>
 </p>
 
 ## Model
@@ -17,10 +17,10 @@ Utilizes AI and optical character recognition (OCR) to automatically identify an
 
 ## Preview Results
 <p align="center">
-  <img src="./img/result1.png" alt="Logo" width="300"/>
+  <img src="./img/result1.png" alt="Logo" width="600"/>
 </p>
 <p align="center">
-  <img src="./img/result2.png" alt="Logo" width="300"/>
+  <img src="./img/result2.png" alt="Logo" width="600"/>
 </p>
 
 ## Project Setup
