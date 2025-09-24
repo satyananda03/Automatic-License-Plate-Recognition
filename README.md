@@ -4,7 +4,7 @@ Utilizes AI and optical character recognition (OCR) to automatically identify an
 ## Key Features
 - Detect the location of license plates on cars, buses, trucks, and motorcycles.
 - License plate character extraction
-- Region code recognition (Currently only applicable to regions in Indonesia), using fuzzy matching technique
+- Region code recognition & typo correction (Currently only applicable to regions in Indonesia), using fuzzy matching technique
 <p align="center">
   <img src="./img/workflow.png" alt="Logo" width="800"/>
 </p>
